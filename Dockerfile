@@ -10,3 +10,4 @@ RUN pip install wandb
 RUN pip install torchvision
 RUN pip install ray
 RUN pip install python-Levenshtein
+RUN pip install numba
